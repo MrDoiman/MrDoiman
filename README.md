@@ -57,3 +57,8 @@ Developer / CiberSecurity Analyst / Ethical Hacker
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrdoiman&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdoiman)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 😂 And here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)

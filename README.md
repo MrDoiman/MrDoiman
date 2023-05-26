@@ -16,8 +16,6 @@
 Developer / CiberSecurity Analyst / Ethical Hacker
 - :telescope: Hack4U Community Contributor.
 
-- :seedling: #RoadToOSEP.
-
 - :zap: In my free time, I often solve some HackTheBox machines.
 
 ---
@@ -49,6 +47,7 @@ Developer / CiberSecurity Analyst / Ethical Hacker
   <img src="https://elearnsecurity.com/wp-content/uploads/eWPTXv2.png" title="eWPTXv2" alt="eWPTXv2" width="50" height="40"/>&nbsp;
   <img src="https://elearnsecurity.com/wp-content/uploads/eCPPTv2.png" title="eCCPTv2" alt="eCCPTv2" width="50" height="40"/>&nbsp;
   <img src="https://eiposgrados.com/wp-content/uploads/2020/06/oscp-acclaim.png" title="OSCP" alt="OSCP" width="40" height="40"/>&nbsp;
+  <img src="https://images.credly.com/size/680x680/images/ebefd276-7f47-4aa8-b1d8-4a13636e4851/image.png" title="OSEP" alt="OSEP" width="40" height="40"/>&nbsp;
 </div>
 
 ---

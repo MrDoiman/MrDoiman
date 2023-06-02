@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l41lS0A0EAL8sfQha/giphy.gif" width="100"/>
   <div id="badges">
-  <a mailto="pixolutos@gmail.com">
+  <a mailto="mrdoiman@proton.me">
     <img src="https://img.shields.io/badge/Mail%20Me-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Mail Me Badge"/>
   </a>
   </div>

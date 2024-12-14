@@ -13,11 +13,11 @@
 </div>
 
 ### :man_technologist: About Me :
-Developer / CiberSecurity Analyst / Ethical Hacker
+Developer / CiberSecurity Analyst / Ethical Hacker / Tcomms Engineer
 - :telescope: Hack4U Community Contributor.
 
 - :zap: In my free time, I often solve some HackTheBox machines.
-
+- 🛰️ Telecommunications Engineer.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
